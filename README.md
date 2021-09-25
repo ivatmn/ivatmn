@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Alexey 👋
+
+- Develop (java, python, javascript)
 
 <!--
 **ivatmn/ivatmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
