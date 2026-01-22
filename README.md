@@ -1,16 +1,60 @@
-### Hi there 👋
+# Привет! 👋 Меня зовут Алексей
 
+Я **Executive Director по цифровой трансформации, Data & AI** с 15+ летним опытом в крупных корпоративных экосистемах.  
+Специализируюсь на построении **data-driven компаний**, внедрении **промышленных AI-решений** и масштабировании цифровых продуктов с измеримым бизнес-эффектом.
 
-**alexx86x64/alexx86x64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Чем занимаюсь сейчас
+- Руководство цифровой трансформацией и внедрением **Data & AI** в бизнес-процессы
+- Запуск и масштабирование **AI-продуктов (AI-агенты, Copilot, ML-платформы)**
+- Формирование стратегии данных, MLOps и AI-инфраструктуры
+- Управление продуктами и программами с фокусом на **P&L и ROI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🧠 Экспертиза
+- **Digital & AI Strategy**
+- **Data-driven transformation**
+- **Product Management & Platform Development**
+- **AI in Business Processes**
+- **MLOps, Big Data, ML Platforms**
+- Управление кросс-функциональными командами (Data, ML, IT, Product)
+
+---
+
+## 🛠 Ключевые технологии
+- Python, SQL  
+- Apache Spark, Big Data  
+- ML / MLOps  
+- Data Architecture  
+- PostgreSQL, Linux  
+
+> Использую технологии как инструмент достижения бизнес-результата, а не самоцель.
+
+---
+
+## 👯 К сотрудничеству
+Открыт к:
+- стратегическим AI / Data инициативам  
+- запуску и масштабированию цифровых платформ  
+- advisory / mentoring для руководителей и команд  
+- обсуждению ролей уровня **CDAO / Head of Data & AI / Digital Transformation Director**
+
+---
+
+## 💬 Можно спросить меня про
+- внедрение AI с реальным финансовым эффектом  
+- трансформацию крупных организаций  
+- построение Data & AI платформ  
+- связь технологий и бизнес-стратегии  
+
+---
+
+## 📫 Как связаться
+- GitHub: через issues / discussions  
+- LinkedIn / Telegram — по запросу  
+
+---
+
+⚡ **Факт:** верю, что успешная цифровая трансформация — это на 20% технологии и на 80% люди, процессы и управленческие решения.
