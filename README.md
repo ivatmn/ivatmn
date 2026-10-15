@@ -61,7 +61,6 @@
 
 ## Contact
 
-- LinkedIn: [link]
 - Email: post@ivatmn.ru
 - GitHub Discussions: open an issue in any repo
 
